@@ -62,8 +62,8 @@ Installation
  
 -----------------------------------------------------------
 Please cite:
-"Chromosome3D: a Distance Geometry Method for Reconstructing Three-Dimensional 
-Chromosomal Structures from Hi-C Interaction Frequency Data" (submitted),
+"Chromosome3D: Reconstructing Three-Dimensional Chromosomal Structures from Hi-
+C Interaction Frequency Data using Distance Geometry Simulated Annealing" (submitted),
 Badri Adhikari^, Tuan Trieu^, Jianlin Cheng
 ^These authors contributed equally to this work 
 
