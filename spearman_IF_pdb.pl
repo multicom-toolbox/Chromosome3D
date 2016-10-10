@@ -1,5 +1,6 @@
 #!/usr/bin/perl -w
 # Badri Adhikari, 6/16/2015
+# Computes Spearman's Rank CC between IF matrix and a PDB model
 
 use strict;
 use warnings;
