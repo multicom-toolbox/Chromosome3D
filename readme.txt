@@ -62,8 +62,7 @@ Installation
  
 -----------------------------------------------------------
 Please cite:
-"Chromosome3D: Reconstructing Three-Dimensional Chromosomal Structures from Hi-C Interaction Frequency Data using Distance Geometry Simulated Annealing" (submitted), Badri Adhikari^, Tuan Trieu^, Jianlin Cheng.
-^These authors contributed equally to this work 
+"Chromosome3D: reconstructing three-dimensional chromosomal structures from Hi-C interaction frequency data using distance geometry simulated annealing". B. Adhikari, T. Trieu, J. Cheng. BMC Genomics, 2016.
 
 -----------------------------------------------------------
 chengji@missouri.edu (PI)
