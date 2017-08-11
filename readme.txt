@@ -28,13 +28,11 @@ Installation
         For instance, if your CNS installation path is
         '/home/user/programs/cns_solve_1.3' replace
         '_CNSsolve_location_' with this path
-   1.6. Install
-        $ make install
-   1.7. Increase the value for ‘nrestraints’ (maximum number of restraints it can take)
+   1.6. Increase the value for ‘nrestraints’ (maximum number of restraints it can take)
         Change the code at line 60 of the module ‘cns_solve_1.3/modules/nmr/readdata’
 		$ vim cns_solve_1.3/modules/nmr/readdata
 		- change 20000 to 200000 (by adding a zero)
-   1.8. Test CNS installation
+   1.7. Test CNS installation
         $ source cns_solve_env.sh
         $ cd test 
         $ ../bin/run_tests -tidy *.inp
